@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141273675112",
+    "project_id": "flutter-live-messenger",
+    "storage_bucket": "flutter-live-messenger.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141273675112:android:3a220770fa8151cbaad2dd",
+        "android_client_info": {
+          "package_name": "com.uriel.msn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmQgxp_wOxGkSzb6l6s5QFufu8hxSDqdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
